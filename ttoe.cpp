@@ -1,4 +1,4 @@
-//Made by Archit Vashist
+//Made by Neilohit Dumka
 #include<iostream.h>
 #include<conio.h>
 #include<stdio.h>
